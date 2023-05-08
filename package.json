@@ -1,0 +1,21 @@
+{
+  "name": "syntaxfm",
+  "displayName": "SyntaxFM",
+  "description": "The official Syntax Podcast color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Syntax FM",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Syntax FM-color-theme.json"
+      }
+    ]
+  }
+}
