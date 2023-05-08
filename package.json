@@ -17,5 +17,22 @@
         "path": "./themes/Syntax FM-color-theme.json"
       }
     ]
+  },
+  "keywords": [
+    "Syntax",
+    "Podcast",
+    "Tasty Treat",
+    "High Contrast",
+    "Yellow"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syntaxfm/vscode-theme"
+  },
+  "icon": "logo.png",
+  "homepage": "https://syntax.fm",
+  "galleryBanner": {
+    "color": "#fabf46",
+    "theme": "dark"
   }
 }
